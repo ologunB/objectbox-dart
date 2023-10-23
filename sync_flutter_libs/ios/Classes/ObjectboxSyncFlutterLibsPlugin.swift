@@ -1,5 +1,5 @@
-import Cocoa
-import FlutterMacOS
+import Flutter
+import UIKit
 
 public class ObjectboxSyncFlutterLibsPlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
